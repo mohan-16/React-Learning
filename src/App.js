@@ -19,6 +19,8 @@ function App() {
    <Button></Button>
    <Split></Split> */}
    <ProductItems></ProductItems>
+   <ProductItems></ProductItems>
+   <ProductItems></ProductItems>
    
   </div>
 

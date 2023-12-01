@@ -6,7 +6,7 @@ export default function ProductImage({
 }) {
   return (
     <div className="position-relative w-100 p-3">
-      <img src={image} alt={imageAlt} className="w-80" height={"300"} />
+      <img src={image} alt={imageAlt} className="w-80" height={"200"} />
       <div className="badge bg-success position-absolute top-0 start-0 translate-middle ">
         {lalbe}
       </div>

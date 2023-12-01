@@ -1,0 +1,29 @@
+.Card {
+  width: 100%;
+  height: auto;
+  background-color: rgb(253, 253, 253);
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.picture {
+  width: 150px;
+  height: auto;
+  object-fit: cover;
+}
+.join {
+  display: flex;
+  justify-content: space-around;
+}
+ul {
+  padding-left: 20px;
+  margin: 0px;
+}
+ul li {
+  padding-inline-start: 5px;
+}
+.Card h4,
+h2,
+h5 {
+  margin: 10px;
+}
